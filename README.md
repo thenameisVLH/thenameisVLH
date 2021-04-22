@@ -10,7 +10,7 @@ Hey there everyone!
                                                                     
                                                     Here are links to my corners of the universe!
                                                                     
-     Discord: https://discord.gg/ST9kZnHm3n
+     Discord: https://discord.gg/nSGAjJ4zEd
 
      Channel: https://www.youtube.com/channel/UCyL1tSCypJ6rqAe_HLS8kTQ
 
