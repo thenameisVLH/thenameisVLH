@@ -16,15 +16,11 @@ Hey there everyone!
 
      Subscription: https://www.youtube.com/channel/UCyL1tSCypJ6rqAe_HLS8kTQ?sub_confirmation=1
      
-     Alternative Nitrotype Account: https://www.nitrotype.com/racer/vlhanchate_pi_3_1415
-     
-     Main Nitrotype Account: https://www.nitrotype.com/racer/vlhanchate_3_141592
+     Nitrotype Account: https://www.nitrotype.com/racer/vlhanchate_pi_3_1415
      
      Github: https://github.com/VLHanchate
      
      Spotify: https://open.spotify.com/user/3emjf48fnm7hjjjbmhrwt38fx
-     
-     Nitrotype Team: https://www.nitrotype.com/team/VLHYT
      
      Twitch: https://www.twitch.com/vlhanchate
                                                                     Peace Out,
