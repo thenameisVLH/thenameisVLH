@@ -10,19 +10,21 @@ Hey there everyone!
                                                                     
                                                     Here are links to my corners of the universe!
                                                                     
-     Discord: https://discord.gg/nSGAjJ4zEd
+Matrix Discord Bot: https://join.slack.com/t/newworkspace-rmk5786/shared_invite/zt-qtjgbw1d-rJj5bxr950CIR1Jamg0xOQ
+Discord: https://discord.gg/nSGAjJ4zEd
+ Channel: https://www.youtube.com/channel/UCyL1tSCypJ6rqAe_HLS8kTQ
+ Subscription: https://www.youtube.com/channel/UCyL1tSCypJ6rqAe_HLS8kTQ?sub_confirmation=1
+ Nitrotype Account: https://www.nitrotype.com/racer/vlhanchate_pi_3_1415
+ Github: https://github.com/VLHanchate
+ Spotify: https://open.spotify.com/user/3emjf48fnm7hjjjbmhrwt38fx
+Twitch: https://www.twitch.com/vlhanchate
+Slack: https://vlhanchate.slack.com/
+Trello: https://trello.com/venkatasailakshhanchate
+Repl: https://replit.com/@vlhanchate
+VLHanchate: https://vlhanchate.slack.com/
+Matrix: https://trello.com/matrix448
+VLHanchate: https://trello.com/vlhanchate
 
-     Channel: https://www.youtube.com/channel/UCyL1tSCypJ6rqAe_HLS8kTQ
-
-     Subscription: https://www.youtube.com/channel/UCyL1tSCypJ6rqAe_HLS8kTQ?sub_confirmation=1
-     
-     Nitrotype Account: https://www.nitrotype.com/racer/vlhanchate_pi_3_1415
-     
-     Github: https://github.com/VLHanchate
-     
-     Spotify: https://open.spotify.com/user/3emjf48fnm7hjjjbmhrwt38fx
-     
-     Twitch: https://www.twitch.com/vlhanchate
                                                                     Peace Out,
                                                                     
                                                                     VLHanchate
