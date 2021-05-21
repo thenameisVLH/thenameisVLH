@@ -38,6 +38,8 @@ Matrix: https://trello.com/matrix448
 
 VLHanchate: https://trello.com/vlhanchate
 
+Matrix: https://discord.gg/ZXcSV49fXA
+
                                                                     Peace Out,
                                                                     
                                                                     VLHanchate
