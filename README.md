@@ -16,6 +16,7 @@ Check out my links for more information about me.
 
 https://
 
-Google Docs: https://docs.google.com/document/d/1Wtoqq0WaTBWshOg8i4V4WptZMLXciIv7xqGf279qe8U/edit?usp=sharing
+My Website: https://matrixvlh.wordpress.com/
+
 
 #thenameisVLH
