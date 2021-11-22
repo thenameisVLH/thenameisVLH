@@ -2,11 +2,21 @@ thenameisVLH
 
 Hey there everyone!
 
-I am thenameisVLH, or Venkatasai Laksh Hanchate! I enjoy doing Math, Programming, solving Rubik's Cubes, Typing, Card Tricks, Sports, Music, and more! My favorite programming languages are Python, Javascript, JAVA, and HTML.
+I am thenameisVLH, or Venkatasai Laksh Hanchate! I enjoy doing FTC, Math, Programming, CADing, Building, solving Rubik's Cubes, Typing, Card Tricks, Sports, Music, and more!
 
-I have created multiple websites.
+Experience Level in Programming:
 
-I am an FTC member and I enjoy to CAD, Build, and Program using JAVA.
+New Beginner Intermediate Advanced Elite
+
+0%    30%          50%       80%    100%
+
+Python Advanced 
+Javascript Elite
+JAVA Intermediate
+HTML Elite
+CSS Advanced
+
+I have coded multiple websites.
 
 https://
 
