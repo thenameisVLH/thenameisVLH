@@ -11,9 +11,13 @@ New Beginner Intermediate Advanced Elite
 0%    30%          50%       80%    100%
 
 Python Advanced 
+
 Javascript Elite
+
 JAVA Intermediate
+
 HTML Elite
+
 CSS Advanced
 
 I have coded multiple websites.
