@@ -2,23 +2,30 @@ thenameisVLH
 
 Hey there everyone!
 
-I am thenameisVLH, or Venkatasai Laksh Hanchate! I enjoy doing FTC, Math, Programming, CADing, Building, solving Rubik's Cubes, Typing, Card Tricks, Sports, Music, and more!
+I am thenameisVLH, or Venkatasai Laksh Hanchate! I enjoy doing FTC, Math, Programming, CADing, Building, solving Rubik's Cubes, Typing, Card Tricks, Sports, Music, dancing, singing and more!
 
 Experience Level in Programming:
 
-New Beginner Intermediate Advanced Elite
+New
 
-0%    30%          50%       80%    100%
+Beginner
 
-Python Advanced 
+Intermediate
 
-Javascript Elite
+Advanced
 
-JAVA Intermediate
+Elite
 
-HTML Elite
 
-CSS Advanced
+Python: Advanced 
+
+Javascript: Elite
+
+JAVA: Intermediate
+
+HTML: Elite
+
+CSS: Advanced
 
 I have coded multiple websites.
 
